@@ -135,17 +135,13 @@ Attendance has a significant influence on final scores.
 Students with consistent study habits tend to perform better academically.
 
 AI tools are commonly used for notes preparation, coding assistance, homework, and exam preparation.
+
 ## Conclusion
 
 The Student AI Usage and Academic Performance Dashboard provides valuable insights into the relationship between AI-assisted learning and academic achievement. By combining academic, behavioral, and AI-related factors, the dashboard supports data-driven decision-making for students, educators, and institutions. The project demonstrates how Power BI can transform educational data into meaningful and actionable insights.
-## Conclusion
 
-The Student AI Usage and Academic Performance Dashboard provides valuable insights into the relationship between AI-assisted learning and academic achievement. By combining academic, behavioral, and AI-related factors, the dashboard supports data-driven decision-making for students, educators, and institutions. The project demonstrates how Power BI can transform educational data into meaningful and actionable insights.
 ## Screenshots
 
 
 <img width="608" height="338" alt="Screenshot 2026-06-20 130426" src="https://github.com/user-attachments/assets/d124b603-f2f5-4a4a-b87c-3c77c97725be" />
 
-## Conclusion
-
-The Student AI Usage and Academic Performance Dashboard provides valuable insights into the relationship between AI-assisted learning and academic achievement. By combining academic, behavioral, and AI-related factors, the dashboard supports data-driven decision-making for students, educators, and institutions. The project demonstrates how Power BI can transform educational data into meaningful and actionable insights.
